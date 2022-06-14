@@ -13,3 +13,5 @@ This project is implemented with Bored API.
 #### Link to project
 [hazelka.github.io/what-to-do/](hazelka.github.io/what-to-do/)
 
+
+<img width="913" alt="Screen Shot 2022-06-14 at 1 28 22 AM" src="https://user-images.githubusercontent.com/8930626/173531383-e6c877a6-bfa9-4396-b631-fe925642fc54.png">
