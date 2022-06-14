@@ -1,0 +1,45 @@
+* {
+  color: white;
+  font-family: 'Source Code Pro', monospace;
+}
+
+body {
+  background-color: #45BADD;	
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5em;
+  width: 100vw;
+  height: 100vh;
+}
+
+#robot {
+  max-width: 50%;
+  height: auto;
+}
+
+@media screen and (max-width: 800px) {
+  main {
+    flex-direction: column;
+  }
+
+  #robot {
+    max-width: 100%;
+  }
+}
+
+#generate {
+  background-color: rgb(244, 115, 171);
+  border: 5px dashed rgb(242, 93, 120);
+  width: 300px;
+  height: 50px;
+  box-shadow: 3px 5px 10px black;
+}
+
+#activity {
+  width: 350px;
+  height: 100px;
+}
